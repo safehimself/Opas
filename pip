@@ -1,0 +1,34 @@
+1.) pythainlp (text ไทย)
+pip install pythainlp
+
+2.) gtts (แปลงข้อความเป็นเสียง)
+pip install gtts
+
+3.) librosa (เสียง)
+pip install librosa
+
+4.) pillow (ภาพ)
+pip install pillow
+
+5.) requests (ดึงลิ้งค์เว็บ)
+pip install requests
+
+6.) beatufulsoup4 (ดึงข้อความจากในหน้าเว็บ)
+pip install beautifulsoup4
+
+7.) opencv2 (เรื่องกล้อง)
+pip install opencv2
+
+8.) cv2 (Canny ใข้สำหรับปรับรูปภาพในบาวข้อเช่น หาขอบ (Find Edges))
+pipinstall pycv2
+
+9.) pytubefix (โหลดวิดีโอยูทูป)
+pip install pytubefix
+
+10.) pdf2docx (แปลงจาก pdf เป็นไฟล์ word)
+pip install pdf2docx
+
+
+
+
+
